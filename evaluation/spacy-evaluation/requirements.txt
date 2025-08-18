@@ -1,0 +1,6 @@
+spacy>=3.7,<4.0
+spacy-transformers
+conllu
+torch
+datasets
+cupy-cuda12x

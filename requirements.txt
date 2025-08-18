@@ -1,0 +1,27 @@
+
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+
+transformers
+accelerate>=0.28.0
+datasets
+
+evaluate[quality]
+scikit-learn
+
+
+python-dotenv
+numpyencoder
+
+# NLP/Evaluation Specific Packages
+seqeval
+conllu
+tqdm
+ufal.chu_liu_edmonds>=0.9.1
+
+# Utilities & Helpers
+python-dotenv
+numpyencoder
+smart_open
+EOF
