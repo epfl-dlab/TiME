@@ -1,4 +1,4 @@
-# Tiny Language Models for NLP Pipelines
+# Tiny Monolingual Encoders
 
 This repository contains the official code and resources for the paper **"Tiny Language Models for NLP Pipelines"**. Our work demonstrates how to train small, efficient, and high-performing monolingual language models for common NLP tasks using knowledge distillation.
 
